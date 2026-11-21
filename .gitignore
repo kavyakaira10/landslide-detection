@@ -1,0 +1,8 @@
+.env
+
+/Data
+
+# The PRD, TechStack and TODO
+/landslide_detection_tech_stack.md
+/Landslide_Project_PRD.md
+/TODO.md
