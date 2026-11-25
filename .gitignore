@@ -1,6 +1,8 @@
 .env
+.venv
 
 /Data
+/test.py
 
 # The PRD, TechStack and TODO
 /landslide_detection_tech_stack.md
