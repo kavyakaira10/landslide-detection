@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu132
+
+geopandas==1.2.0
+matplotlib==3.11.2
+numpy==2.5.5
+opencv-python==5.1.0.95
+pandas==3.1.1
+rasterio==1.5.2
+scikit-learn==1.9.1
+shapely==2.2.0
+torch==2.15.0+cu132
