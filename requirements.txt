@@ -1,6 +1,7 @@
 --extra-index-url https://download.pytorch.org/whl/cu132
 
 geopandas==1.2.0
+h5py
 matplotlib==3.11.2
 numpy==2.5.5
 opencv-python==5.1.0.95

@@ -1,10 +1,12 @@
 .env
 .venv
 
-/Data
-/test.py
+# DATA
+/data
 
 # The PRD, TechStack and TODO
 /landslide_detection_tech_stack.md
 /Landslide_Project_PRD.md
 /TODO.md
+/DATASET_INFO.md
+/SATELLITE_IMAGERY_GUIDE.MD
